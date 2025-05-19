@@ -52,3 +52,6 @@ trivy config --severity HIGH,CRITICAL .
 ## 注意事項
 
 このコードは教育目的のみで提供されています。実際の環境にデプロイしないでください。
+
+![image](https://github.com/user-attachments/assets/463c33fb-2b33-4af4-bccf-d72d6d337c67)
+
