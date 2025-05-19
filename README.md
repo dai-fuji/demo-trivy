@@ -55,3 +55,5 @@ trivy config --severity HIGH,CRITICAL .
 
 ![image](https://github.com/user-attachments/assets/463c33fb-2b33-4af4-bccf-d72d6d337c67)
 
+<img width="782" alt="image" src="https://github.com/user-attachments/assets/89224b6b-ccbd-4636-b75f-a72b73363a55" />
+
