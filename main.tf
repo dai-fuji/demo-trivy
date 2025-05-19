@@ -1,4 +1,4 @@
-# AWSプロバイダーの設定
+# AWSプロバイダーの設定です。
 provider "aws" {
   region = "us-west-2"
 }
